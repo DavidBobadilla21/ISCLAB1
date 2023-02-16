@@ -298,7 +298,7 @@ Buscamos el desarrollo de nuestros estudiantes a través de la creación de proy
           </div>
         </div>
 
-        <footer class="mt-8 text-gray-500">Eddie Murphy</footer>
+        <footer class="mt-8 text-gray-500">David Emmanuel Bobadilla</footer>
       </blockquote>
 
  </div>
